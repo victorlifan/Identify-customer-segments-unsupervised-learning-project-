@@ -4,7 +4,7 @@ Identify Customer Segments (unsupervised ML project)
 ## by Fan Li
 
 ## Date created
-Project is created on May 12nd 2020.
+Project is created on May 12th 2020.
 
 
 ## Description
